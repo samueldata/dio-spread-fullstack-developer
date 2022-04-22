@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repositório no GitHub Para Compartilhar Progresso
 
 *Data de início: 14 de Abril de 2022*
@@ -18,3 +19,7 @@
 
 ### :mega:*Em andamento*
 
+=======
+# dio-spread-fullstack-developer
+Repositório no GitHub para compartilhar progresso no Bootcamp
+>>>>>>> f2ca633b9066828e58c732a392c1b9173d44b6bd
