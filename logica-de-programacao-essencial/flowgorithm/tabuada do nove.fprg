@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="SamuelLeitedaSilva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-17 09:00:58 PM"/>
+        <attribute name="created" value="U2FtdWVsTGVpdGVkYVNpbHZhO0xBUFRPUC01MTFOTUZLMTsyMDIyLTA0LTE3OzA3OjQwOjEyIFBNOzQxMDc="/>
+        <attribute name="edited" value="U2FtdWVsTGVpdGVkYVNpbHZhO0xBUFRPUC01MTFOTUZLMTsyMDIyLTA0LTE3OzA5OjAwOjU4IFBNOzQ7NDIyNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, limite" type="Integer" array="False" size=""/>
+            <output expression="&quot;***Tabuada do Nove***&quot;" newline="True"/>
+            <assign variable="numero" expression="0"/>
+            <assign variable="limite" expression="10"/>
+            <while expression="numero&lt;=limite">
+                <output expression="&quot;9 x &quot; &amp; numero &amp; &quot; = &quot; &amp; numero*9" newline="True"/>
+                <assign variable="numero" expression="numero+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
