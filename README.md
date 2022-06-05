@@ -12,10 +12,10 @@
 
 ## :dart:Módulo II - HTML/CSS3
 
-- Primeiros passos para desenvolvimento web
-- Introdução a criação de websites com HTML5 e CSS3
-- Posicionamento com Flexbox em CSS
-- Recriando a página inicial do Instagram
+- Primeiros passos para desenvolvimento web:white_check_mark:
+- Introdução a criação de websites com HTML5 e CSS3:white_check_mark:
+- Posicionamento com Flexbox em CSS:white_check_mark:
+- Recriando a página inicial do Instagram:white_check_mark:
 
 ### :mega:*Em andamento*
 
