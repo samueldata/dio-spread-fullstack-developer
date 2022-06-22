@@ -16,6 +16,11 @@ body {
     color:whitesmoke;
 }
 
+.container {
+    display: flex;
+
+}
+
 button {
     height: 40px;
     width: 40px;
@@ -28,13 +33,20 @@ button {
     text-align: center;
 }
 
-#counter {
+.counter {
     display: flex;
 }
 
-#currentNumber {
+.currentNumber {
     display: flex;
     align-items: center;
     margin: 0 20px;
     font-size: 16pt;
+}
+
+.clean {
+    display: flex;
+    padding:10px 0px;
+    border-radius: 20%;
+
 }

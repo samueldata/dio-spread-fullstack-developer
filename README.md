@@ -17,6 +17,23 @@
 - Posicionamento com Flexbox em CSS:white_check_mark:
 - Recriando a página inicial do Instagram:white_check_mark:
 
+## :dart:Módulo III - Javascript
+
+- Introdução ao Javascript :white_check_mark:
+- Sintaxe e Operadores :white_check_mark:
+- Variáveis e Tipos
+- Funções
+- Coleções
+- Map, Filter e Reduce
+- Debbuging e Error Handling
+- Javascript Assíncrono
+- Orientações a objetos
+- Trabalhando com Módulos em Javascript
+- Manipulando a D.O.M. com Javascript
+- Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+- Desafios Iniciais JS - Spread FullStack
+- Aprenda a criar um sistema de estacionamento usando TypeScript
+
 ### :mega:*Em andamento*
 
 =======

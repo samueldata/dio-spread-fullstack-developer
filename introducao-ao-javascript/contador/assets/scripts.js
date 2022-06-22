@@ -11,3 +11,8 @@ function decrement() {
 	count--;
 	CURRENT_NUMBER.innerHTML = count;
 }
+
+function reset() {
+	count = 0;
+	CURRENT_NUMBER.innerHTML = count;
+}
