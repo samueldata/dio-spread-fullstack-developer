@@ -21,10 +21,10 @@
 
 - Introdução ao Javascript :white_check_mark:
 - Sintaxe e Operadores :white_check_mark:
-- Variáveis e Tipos
-- Funções
-- Coleções
-- Map, Filter e Reduce
+- Variáveis e Tipos :white_check_mark:
+- Funções :white_check_mark:
+- Coleções :white_check_mark:
+- Map, Filter e Reduce :white_check_mark:
 - Debbuging e Error Handling
 - Javascript Assíncrono
 - Orientações a objetos
