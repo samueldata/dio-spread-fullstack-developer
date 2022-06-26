@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+    <script>
+        // Debbuging & Error Handling
+
+        // return example
+        function verificaPalindromo1(string) {
+            if (!string) return console.log("String inválida");
+
+            return string === string.split('').reverse().join('');
+        }
+
+        // throw example
+        function verificaPalindromo2(string) {
+            if (!string) throw "String inválida";
+
+            return string === string.split('').reverse().join('');
+        }
+
+        verificaPalindromo1('');
+        verificaPalindromo2('');
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
