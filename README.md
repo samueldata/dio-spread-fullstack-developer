@@ -26,7 +26,7 @@
 - Coleções :white_check_mark:
 - Map, Filter e Reduce :white_check_mark:
 - Debbuging e Error Handling :white_check_mark:
-- Javascript Assíncrono
+- Javascript Assíncrono :white_check_mark:
 - Orientações a objetos
 - Trabalhando com Módulos em Javascript
 - Manipulando a D.O.M. com Javascript

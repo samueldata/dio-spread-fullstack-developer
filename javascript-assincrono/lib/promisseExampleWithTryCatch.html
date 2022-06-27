@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>JS Assíncrono - Promise Example 2</title>
+</head>
+
+<body>
+    <script>
+        async function resolvePromise() {
+            const myPromise = new Promise((resolve, reject) => {
+                window.setTimeout(() => {
+                    resolve('Resolvida');
+                }, 3000);
+            });
+
+            let result;
+
+            try {
+                result = await myPromise
+                    .then((result) => result + ' passando pelo then')
+                    .then((result) => result + ' e agora acabou!')
+            } catch (err) {
+                result = err.message;
+            }
+
+            return result;
+            // await resolvePromise() => Após 3 segundos, retornará o valor:
+            // "Resolvida passando pelo then e agora acabou!"
+        }
+    </script>
+</body>
+
+</html>
