@@ -27,7 +27,7 @@
 - Map, Filter e Reduce :white_check_mark:
 - Debbuging e Error Handling :white_check_mark:
 - Javascript Assíncrono :white_check_mark:
-- Orientações a objetos
+- Orientações a objetos :white_check_mark:
 - Trabalhando com Módulos em Javascript
 - Manipulando a D.O.M. com Javascript
 - Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
