@@ -1,6 +1,6 @@
 # Map, Filter e Reduce
 
-Este repositório contém a atividade prática do Curso "Map, Filter e Reduce", que faz parte do Basecamp de Javascript que minstrei pela [Digital Innovation One](https://digitalinnovation.one/).
+Este repositório contém a atividade prática do Curso "Map, Filter e Reduce", que faz parte do Basecamp de Javascript [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividades
 

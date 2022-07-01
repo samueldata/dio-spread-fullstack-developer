@@ -28,8 +28,8 @@
 - Debbuging e Error Handling :white_check_mark:
 - Javascript Assíncrono :white_check_mark:
 - Orientações a objetos :white_check_mark:
-- Trabalhando com Módulos em Javascript
-- Manipulando a D.O.M. com Javascript
+- Trabalhando com Módulos em Javascript :white_check_mark:
+- Manipulando a D.O.M. com Javascript :white_check_mark:
 - Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
 - Desafios Iniciais JS - Spread FullStack
 - Aprenda a criar um sistema de estacionamento usando TypeScript

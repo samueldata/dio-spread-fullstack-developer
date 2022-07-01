@@ -1,6 +1,6 @@
 # Javascript Assíncrono
 
-Este repositório contém a atividade prática do Curso "Javascript Assíncrono", que faz parte do Basecamp de Javascript que ministrei pela [Digital Innovation One](https://digitalinnovation.one/).
+Este repositório contém a atividade prática do Curso "Javascript Assíncrono", que faz parte do Basecamp de Javascript [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade: API "catAPI"
 
